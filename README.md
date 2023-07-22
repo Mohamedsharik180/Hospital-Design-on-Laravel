@@ -1,6 +1,34 @@
-# Hospital-Design-on-Laravel
-i have done a full design and devolpment from the scratch to the end
-![FrontEnd](https://github.com/Mohamedsharik180/Hospital-Design-on-Laravel/assets/116562978/83d72197-1bef-44f1-90f7-8636d64e88b1)
-![admin-screenshot](https://github.com/Mohamedsharik180/Hospital-Design-on-Laravel/assets/116562978/429861be-8306-40c3-a76a-e067534e84f2)
-![Tables_Screenshot](https://github.com/Mohamedsharik180/Hospital-Design-on-Laravel/assets/116562978/dd7f8ea6-dfa1-4ee6-9b37-f0c27c059366)
-[hospitalMS-main.zip](https://github.com/Mohamedsharik180/Hospital-Design-on-Laravel/files/12136016/hospitalMS-main.zip)
+<h1 style="color:blue">Hospital Mangment System Made with Laravel 8</h1>
+<h3>Front End</h3>
+
+<img src="FrontEnd.png" />
+
+<h3>Back End</h3>
+
+<img src="admin-screenshot.png" />
+
+<h3>Database Tables</h3>
+
+<img src="Tables_Screenshot.png" />
+
+<h2 style="color:cyan">Installation</h2>
+<ul>
+    <li>Clone the Repo: <br> </li>
+    <li style=""> > git clone https://github.com/tauseedzaman/hospitalMS.git</li>
+    <li> > cd hospitalMS</li>
+    <li> > composer install or composer update</li>
+    <li> > cp .env.example .env</li>
+    <li> > Set up .env file</li>
+    <li> > php artisan key:generate</li>
+    <li> > php artisan storage:link</li>
+    <li> > php artisan migrate:fresh --seed</li>
+    <li> > php artisan serve</li>
+    <li> <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> </li>
+    </ul>
+    <p style="color:yellow">If you like our project please leave a star ❤<p>
+
+
+`
+    [For Online Demo Click Me](https://hospital-management-system.tauseedzaman.com)
+
+
